@@ -1,4 +1,5 @@
 def new_hash
+  hash = {:key => value, :key2 => value2}
 
 end
 
